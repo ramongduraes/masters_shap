@@ -1,0 +1,6 @@
+%Banco redun_relev3f.mat
+
+%1000 instancias de 3 features. Sendo as duas primeiras relevantes e a
+%tereira irrelevante. As 3 variáveis apresentam alto valor de informação
+%mútua entre elas.
+

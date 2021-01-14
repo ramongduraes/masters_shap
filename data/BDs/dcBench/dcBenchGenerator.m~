@@ -1,0 +1,11 @@
+n = 1000;
+
+X1 = randn(n,1);
+X2 = randn(n,1);
+X3 = round(randn(n,1)*100);
+X4 = randi(2,n,1);
+X5 = randn(n,1);
+X6 = randn(n,1);
+
+Y = tansig((X1.^3) + sin(X2) - (X3.^3) + (X4.^3));
+
