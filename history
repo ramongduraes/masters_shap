@@ -1,0 +1,16 @@
+18/01 - Sugestão do problema pelo Braga
+25/01 - Apresentação do problema para Fred e Lourenço. Problema de quantificar/apresentar os resultados da seleção de características.
+01/02 - Utilizei LDA para treinar modelos com 1 até M features. Plotei os resultados. 
+08/02 - Resultados com bases de dados sugeridas. Adicionei os Shapley Values extraídos do LDA.
+15/02 - Apresentei resultados com validação cruzada para ter ideia da variância
+22/02 - SEM REUNIÃO // perdi o código devido às permissões das pastas do ubuntu dentro do windows
+01/03 - Recuperei resultados anteriores. Peguei benchmarks para algumas bases de dados e treinei modelos melhores (utilizando Random Search para os parâmetros da Random Forest). Acurácia interessante.  
+08/03 - Modelos rodando com árvores otimizadas para todos.
+15/03 - Melhoria em visualização dos resultados 
+22/03 - --- Final de semestre
+29/03 - --- Final de semestre
+05/04 - [ARTIGO] Introdução
+12/04 - Unificação de experimentos em um só notebook. Aumento de reprodutibilidade (através de seeds).
+19/04 - --- Férias
+26/04 - Consertei o cálculo de feature importance com SHAP. Adicionei LASSO aos métodos
+03/04 - 
